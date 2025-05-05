@@ -1,0 +1,22 @@
+{
+  "name": "homework-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "dependencies": {
+    "node-ical": "^0.17.2",
+    "readline-sync": "^1.4.10"
+  }
+}
